@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mydododo
-- 👀 I’m interested in ...CAD EDA 
+- 👀 I’m interested in ...CAD ug
 - 🌱 I’m currently learning ...PCB desgin & shell desgin & 3dprint
 - 💞️ I’m looking to collaborate on ...firmware 
 - 📫 How to reach me ...send me message
